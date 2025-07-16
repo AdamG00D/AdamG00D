@@ -26,9 +26,10 @@ I’m on a journey to bridge the gap between **law** and **code**, by building s
 
 | Project | Description |
 |--------|-------------|
-| 🔐 [The Cipher App](https://github.com/AdamG00D/TheCipher_App) | Encrypt messages using AES + SHA-256 (MIT App Inventor) |
-| 👮‍♂️ [EL Basha App](https://github.com/AdamG00D/ElBasha_App) | Fake Police Voice Prank |
-| 💬 [BLU App](https://github.com/AdamG00D/BLU_App) | Bluetooth-based chat app for Android (MIT App Inventor) |
+| 🔐 [The Cipher App](https://github.com/AdamG00D/TheCipher_App) | Encrypt messages using AES and SHA-256 — built with MIT App Inventor |
+| 👮‍♂️ [EL Basha App](https://github.com/AdamG00D/ElBasha_App) | A fun fake police voice prank app |
+| 📡 [BLU App](https://github.com/AdamG00D/BLU_App) | Offline Bluetooth-based chat app for Android — built with MIT App Inventor |
+| 💬 [Secretly](https://github.com/AdamG00D/Secretly) | Responsive anonymous messaging website with automatic Arabic and English support |
 
 ---
 
