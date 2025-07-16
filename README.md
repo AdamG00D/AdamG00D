@@ -8,7 +8,7 @@
 
 🎓 Law student with a passion for technology and how it intersects with justice, privacy, and digital rights.
 
-I’m on a journey to bridge the gap between **law** and **code**, by building simple tools that solve real-world problems — especially in the legal and privacy tech space.
+I’m on a journey to bridge the gap between **law** and **code**, by building simple tools that solve real-world problems — especially in the legal, privacy, and cybersecurity space.
 
 ---
 
@@ -16,9 +16,9 @@ I’m on a journey to bridge the gap between **law** and **code**, by building s
 
 - 👨‍⚖️ Law student curious about the intersection of law and technology  
 - 🧑‍💻 Completed Harvard's CS50 for Lawyers and learned Python  
+- 🛡️ Interested in cybersecurity — currently building on foundational knowledge  
 - 📱 I build mobile apps using MIT App Inventor  
 - 🌐 I create simple websites with GitHub Pages  
-- 🛡️ Passionate about encryption, privacy, and access to justice
 
 ---
 
@@ -59,10 +59,11 @@ I’m on a journey to bridge the gap between **law** and **code**, by building s
 
 ## 📚 Areas I'm Learning & Exploring
 
-- 📱 Mobile App Development using MIT App Inventor
-- 🌐 Simple Website Building using HTML/CSS & GitHub Pages
-- 🔐 Basics of Cryptography (like SHA-256 & AES)
-- ⚖️ Curious about how law and tech overlap — currently exploring LegalTech & RegTech
+- 📱 Mobile App Development using MIT App Inventor  
+- 🌐 Static Website Building using HTML/CSS & GitHub Pages  
+- 🔐 Basics of Cryptography (SHA-256, AES)  
+- 🛡️ Cybersecurity fundamentals (networking, threats, hashing, and encryption)  
+- ⚖️ Curious about how law and tech overlap — exploring LegalTech & RegTech  
 
 ---
 
