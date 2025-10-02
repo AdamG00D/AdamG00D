@@ -71,7 +71,7 @@ I’m on a journey to bridge the gap between **law** and **code**, by building s
 <h2 align="center">🌐 My Website</h2>
 
 <p align="center">
-  <a href="adam-ghanem.com">Visit My Personal Website</a>
+  <a href="https://adam-ghanem.com">Visit My Personal Website</a>
 </p>
 
 ---
